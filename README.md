@@ -9,3 +9,16 @@
 **Author:** Shivani Sharma  
 **Tools:** Excel 2013, VLOOKUP, CHOOSE, LEFT, RIGHT, SEARCH, MAX  
 **Use Case:** FMCG · Wholesale · Retail · Pharma Distribution
+## 📸 Dashboard Preview
+
+### Raw Data (500+ Records)
+![Search Dashboard](screenshots/Search_from_left.jpg)
+
+### Search Bar — Live Demo
+(screenshots/Search_from_left.jpg)
+
+### Search Bar — Live Demo
+![Search Dashboard](screenshots/Search_from_right.jpg)
+
+### Search Bar — Live Demo
+![Search Dashboard](screenshots/Search_from_anywhere.jpg)
